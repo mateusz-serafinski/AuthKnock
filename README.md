@@ -1,3 +1,15 @@
 <p align="center">
-  <img src="./logo.png" alt="AuthKnock Logo" width="250">
+  <img src="./logo.png" width="180">
+</p>
+
+<h1 align="center">AuthKnock</h1>
+
+<p align="center">
+  Dynamic Port opening after Authentication • Automatic VPN configuration • Secure Remote Access • Integration with multiple ecosystems and providers
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue">
+  <img src="https://img.shields.io/badge/License-Custom-red">
+  <img src="https://img.shields.io/badge/Status-Development-orange">
 </p>
