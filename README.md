@@ -13,6 +13,6 @@
   <img src="https://img.shields.io/badge/License-Custom-red">
   <img src="https://img.shields.io/badge/Status-Development-orange">
 </p>
-<footer>Copyright (c) 2026 Twoja_Nazwa
+<footer>Copyright (c) 2026 AuthKnock
 
 Licensed under the PolyForm Noncommercial License 1.0.0.</footer>
