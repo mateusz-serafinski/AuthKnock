@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue">
-  <img src="https://img.shields.io/badge/License-Custom-red">
+  <img src="https://img.shields.io/badge/PolyForm%20Noncommercial-1.0.0-red">
   <img src="https://img.shields.io/badge/Status-Development-orange">
 </p>
 <footer>Copyright (c) 2026 AuthKnock
